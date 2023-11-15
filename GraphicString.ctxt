@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GraphicString
+comment1.params=text\ x\ y\ font\ color
+comment1.target=GraphicString(java.lang.String,\ int,\ int,\ java.awt.Font,\ java.awt.Color)
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=text
+comment3.target=void\ setText(java.lang.String)
+comment4.params=x\ y
+comment4.target=void\ setPosition(int,\ int)
+comment5.params=font
+comment5.target=void\ setFont(java.awt.Font)
+comment6.params=color
+comment6.target=void\ setColor(java.awt.Color)
+comment7.params=g2
+comment7.target=java.awt.Rectangle\ getBounds(java.awt.Graphics2D)
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=canvas
+comment1.target=void\ dibujar(Canvas)
+comment2.params=letra\ fila\ columna
+comment2.target=void\ colocarLetraEnTablero(char,\ int,\ int)
+comment3.params=
+comment3.target=void\ borrarUltimaLetra()
+comment4.params=fila
+comment4.target=boolean\ filaLlena(int)
+comment5.params=
+comment5.target=boolean\ estaLleno()
+comment6.params=palabra
+comment6.target=boolean\ palabraCompleta(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ obtenerPalabraEnTablero()
+comment8.params=
+comment8.target=void\ avanzarFila()
+numComments=9

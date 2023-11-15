@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Teclado
+comment1.params=tablero\ palabraSeleccionada\ canvas
+comment1.target=Teclado(Tablero,\ java.lang.String,\ Canvas)
+comment10.params=palabraSeleccionada\ palabraEnTablero
+comment10.target=java.lang.String\ proporcionarFeedback(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dibujar()
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=fila\ columna
+comment4.target=char\ obtenerLetra(int,\ int)
+comment5.params=canvas\ xCuadroActual\ yCuadroActual\ letra\ fila\ columna
+comment5.target=void\ keyPressed(Canvas,\ int,\ int,\ char,\ int,\ int)
+comment6.params=canvas\ mensaje
+comment6.target=void\ mostrarGameOver(Canvas,\ java.lang.String)
+comment7.params=
+comment7.target=void\ avanzarPosicion()
+comment8.params=
+comment8.target=void\ retrocederPosicion()
+comment9.params=
+comment9.target=void\ avanzarFila()
+numComments=11
